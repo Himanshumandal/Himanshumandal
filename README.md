@@ -1,3 +1,4 @@
+[![An image of @himanshumandal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himanshumandal)](https://holopin.io/@himanshumandal)
 <h1 align="center">Hi 👋, I'm Himanshu Mandal</h1>
 <h3 align="center">A passionate coder from India</h3>
 
